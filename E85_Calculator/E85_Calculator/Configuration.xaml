@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:control="clr-namespace:Xamarin.Forms.MaskedEntry;assembly=Xamarin.Forms.MaskedEntry"
+             mc:Ignorable="d"
+             x:Class="E85_Calculator.Configuration">
+
+    <NavigationPage.TitleView>
+        <Label Text="Configuration" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Title" TextColor="#FFFFFF" Margin="-60,0,0,0" />
+    </NavigationPage.TitleView>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Prix E85 (€) : " Margin="30,30,0,0" VerticalTextAlignment="Center" />
+            <control:MaskedEntry x:Name="tbE85" Placeholder=""  Mask="X,XXX" Margin="80,-40,0,0" ScaleX="0.8" Keyboard="Numeric" />
+            <Label Text="Prix SP95 (€) : " Margin="30,30,0,0" VerticalTextAlignment="Center" />
+            <control:MaskedEntry x:Name="tbSP95" Placeholder="" Mask="X,XXX" Margin="90,-40,0,0" ScaleX="0.8" Keyboard="Numeric" />
+            <Label Text="Réservoir (L) : " Margin="30,30,0,0" VerticalTextAlignment="Center" />
+            <control:MaskedEntry x:Name="tbReservoir" Placeholder="" Mask="XX" Margin="90,-40,0,0" ScaleX="0.8" Keyboard="Numeric" />
+            <Grid Margin="0,50,0,0">  
+            <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Button Text="Annuler" Grid.Row="0" Grid.Column="0" Margin="10,0,0,0" Clicked="Annuler_Clicked"/>
+                <Button Text="Valider" Grid.Row="0" Grid.Column="1" Margin="0,0,10,0" Clicked="Valider_Clicked"/>
+            </Grid>
+
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

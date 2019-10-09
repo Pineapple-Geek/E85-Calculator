@@ -1,0 +1,37 @@
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.csprojAssemblyReference.cache
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.deps.json
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.dll
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.pdb
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.AssemblyInfoInputs.cache
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.AssemblyInfo.cs
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.dll
+C:\Users\Naim\Documents\Visual Studio 2019\Projects\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.pdb
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.deps.json
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.dll
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.pdb
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.AssemblyInfoInputs.cache
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.AssemblyInfo.cs
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.dll
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.pdb
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.csprojAssemblyReference.cache
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\Configuration.xaml.g.cs
+C:\Users\Naïm\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.deps.json
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.dll
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\bin\Debug\netstandard2.0\E85_Calculator.pdb
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\Configuration.xaml.g.cs
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.AssemblyInfoInputs.cache
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.AssemblyInfo.cs
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.dll
+C:\Users\TP\Desktop\E85_Calculator\E85_Calculator\E85_Calculator\obj\Debug\netstandard2.0\E85_Calculator.pdb
